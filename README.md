@@ -22,4 +22,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
   
-[![Ashutosh's github activity graph] (https://activity-graph.herokuapp.com/graph?username=radmilags&bg_color=627464&color=403d3d&line=eed5ae&point=eed5ae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph] (https://activity-graph.herokuapp.com/graph?username=radmilags&bg_color=627464&color=403d3d&line=eed5ae&point=eed5ae&area=true&hide_border=true)
+(https://github.com/ashutosh00710/github-readme-activity-graph)
