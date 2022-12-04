@@ -22,4 +22,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?radmilags=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=radmilags&theme=react)]
+(https://github.com/radmilags/github-readme-activity-graph)
