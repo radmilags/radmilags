@@ -1,5 +1,5 @@
 
-- 👋 Oi, eu sou @radmilags
+- 👋 Oi, eu sou Radmila Gama
 - 🌱 Atualmente eu estou aprendendo Django.
 - 📫 Você pode me encontrar pelo meu linkedin Radmila Gama (https://www.linkedin.com/in/radmila-gama-37a207212/) ou pelo meu email gama.radmila@gmail.com
 
