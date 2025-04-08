@@ -8,11 +8,11 @@
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=radmilags&show_icons=true&theme=aura&count_private=true&count_private=true&include_all_commits=true&locale=pt-br"/> 
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radmilags&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radmilags&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radmilags&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=radmilags&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=radmilags&theme=gotham&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radmilags&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radmilags&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radmilags&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=radmilags&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=radmilags&theme=aura&utcOffset=8)
 <!--
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
