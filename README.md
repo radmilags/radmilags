@@ -11,7 +11,7 @@
 
 ## 🌟 Sobre mim
 
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no [IFRN](https://portal.ifrn.edu.br)
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no IFRN
 - 🎨 Apaixonada por **Design de Interfaces (UI/UX)**
 - 🤖 Entusiasta de **programação competitiva**
 - ♟️ Enxadrista nas horas vagas
@@ -21,7 +21,7 @@
 ## 📫 Contato
 
 - 💼 LinkedIn: [linkedin.com/in/seu-usuario]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/radmila-gama-37a207212/)) 
-- 🎯 Beecrowd: [Perfil Competitivo](https://www.beecrowd.com.br/judge/pt/profile/230691)
+- 🎯 Beecrowd: [radmilags](https://www.beecrowd.com.br/judge/pt/profile/230691)
 - 📬 Email: gama.radmila@gmail.com 
 
 ---
