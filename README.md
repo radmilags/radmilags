@@ -20,9 +20,9 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/radmila-gama-37a207212/)) *(adicione se quiser)*
+- 💼 LinkedIn: [linkedin.com/in/seu-usuario]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/radmila-gama-37a207212/)) 
 - 🎯 Beecrowd: [Perfil Competitivo](https://www.beecrowd.com.br/judge/pt/profile/230691)
-- 📬 Email: gama.radmila@gmail.com *(adicione se quiser)*
+- 📬 Email: gama.radmila@gmail.com 
 
 ---
 <!--
