@@ -25,18 +25,10 @@
 - 📬 Email: gama.radmila@gmail.com 
 
 ---
-<!--
-## 🛠️ Tecnologias e Ferramentas
-
-- **Linguagens:** C, C++, C#, Java, JavaScript, Python, PHP, SQL, Ruby, Pascal, Assembly
-- **Frameworks e Ferramentas:** .NET, Node.js, React, Git, Figma, Visual Studio, VS Code
-- **Outros:** GitHub, Linux, Agile/Scrum, GitHub Projects
--->
----
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radmilags&langs_count=20&layout=compact&theme=aura&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radmilags&show_icons=true&theme=aura&count_private=true&include_all_commits=true&locale=pt-br"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radmilags&langs_count=20&layout=compact&theme=aura&locale=pt-br" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=radmilags&show_icons=true&theme=aura&count_private=true&include_all_commits=true&locale=pt-br"/>
 </p>
 
 <p align="center">
