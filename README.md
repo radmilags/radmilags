@@ -12,7 +12,7 @@
 ## 🌟 Sobre mim
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no IFRN
-- 🎨 Atuo profissionalmente como **Design de Interfaces (UI/UX)**
+- 🎨 Atuo profissionalmente como **Designer de Interfaces (UI/UX)**
 - 🤖 Programadora competitiva — **Top 5 do IFRN** no Beecrowd  
 - ♟️ Enxadrista — 2º lugar na categoria Universitário Feminino no Torneio Estadual Onofre Lopes (RN, 2024)
 
