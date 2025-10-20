@@ -12,18 +12,28 @@
 ## 🌟 Sobre mim
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no IFRN
-- 🎨 Designer UI/UX na **Strategi Brasil**  
-- 🤖 Programadora competitiva — **Top 5 do IFRN** no Beecrowd  
+- 🎨 Designer UI/UX na **Strategi Brasil** - ajudando a criar produtos digitais intuitivos e eficientes
+- 🚀 Co-fundadora do **[Avalista](https://www.linkedin.com/company/avalista/)** - plataforma educativa de avaliação de interfaces (React, TS, Figma)
+- 🤖 Programadora competitiva — **Top 5 do IFRN** no Beecrowd
 - ♟️ Enxadrista — 2º lugar na categoria Universitário Feminino no Torneio Estadual Onofre Lopes (RN, 2024)
 
+---
+
+## 🛠️ Ferramentas & Habilidades
+
+- **Design & Prototipagem:** Figma (Avançado), Design Systems, Wireframing, Prototipagem Interativa
+- **Pesquisa & Análise:** UX Research, Análise de Requisitos, Jornadas do Usuário, Testes de Usabilidade
+- **Desenvolvimento:** React, TypeScript, HTML, CSS, Git
+- **Outros:** Metodologias Ágeis, Inglês Intermediário
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [Radmila Gama](https://www.linkedin.com/in/radmila-gama-37a207212/) 
+- 💼 LinkedIn: [Radmila Gama](https://www.linkedin.com/in/radmila-gama-37a207212/)
+- 🎨 Behance:  [radmilags](behance.net/radmilags)
 - 🎯 Beecrowd: [radmilags](https://www.beecrowd.com.br/judge/pt/profile/230691)
-- 📬 Email: gama.radmila@gmail.com 
+- 📬 Email: gama.radmila@gmail.com
 
 ---
 
@@ -37,12 +47,16 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radmilags&theme=aura" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radmilags&theme=aura" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=radmilags&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=radmilags&theme=aura&utcOffset=8" />
-</p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=radmilags&theme=aura&utcOffset=-3" /> </p>
 
-<!-- Visitantes
+  <!-- Visitantes
+
 <div align="center">
+
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
+
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{radmilags}/count.svg" /></p> 
+
   <br>
+
 </div> -->
