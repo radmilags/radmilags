@@ -3,7 +3,7 @@
 <p align="center">
   <em>
     Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no IFRN<br>
-    <strong>Designer UI/UX</strong> | <strong>Programadora Competitiva</strong> | <strong>Enxadrista</strong>
+    <strong>Designer UI/UX com background em Desenvolvimento Front-end</strong> | <strong>Programadora Competitiva</strong> | <strong>Enxadrista</strong>
   </em>
 </p>
 
@@ -13,9 +13,10 @@
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no IFRN
 - 🎨 Designer UI/UX na **Strategi Brasil** - ajudando a criar produtos digitais intuitivos e eficientes
-- 🚀 Co-fundadora do **[Avalista](https://www.linkedin.com/company/avalista/)** - plataforma educativa de avaliação de interfaces (React, TS, Figma)
+- 🚀 Co-fundadora do **[Avalista](https://www.linkedin.com/company/avalista/)** - plataforma educativa de avaliação de interfaces (React, TS, Figma) - plataforma educacionaç de avaliação de interfaces (React, TS, Figma)
 - 🤖 Programadora competitiva — **Top 5 do IFRN** no Beecrowd
 - ♟️ Enxadrista — 2º lugar na categoria Universitário Feminino no Torneio Estadual Onofre Lopes (RN, 2024)
+- ✨ Apaixonada por construir pontes entre design centrado no usuário e código eficiente.
 
 ---
 
@@ -23,7 +24,7 @@
 
 - **Design & Prototipagem:** Figma (Avançado), Design Systems, Wireframing, Prototipagem Interativa
 - **Pesquisa & Análise:** UX Research, Análise de Requisitos, Jornadas do Usuário, Testes de Usabilidade
-- **Desenvolvimento:** React, TypeScript, HTML, CSS, Git
+- **Desenvolvimento:** React, TypeScript, HTML, CSS, Git, C++, .NET
 - **Outros:** Metodologias Ágeis, Inglês Intermediário
 
 ---
@@ -31,7 +32,7 @@
 ## 📫 Contato
 
 - 💼 LinkedIn: [Radmila Gama](https://www.linkedin.com/in/radmila-gama-37a207212/)
-- 🎨 Behance:  [radmilags](behance.net/radmilags)
+- 🎨 Behance: [radmilags](https://www.behance.net/radmilags)
 - 🎯 Beecrowd: [radmilags](https://www.beecrowd.com.br/judge/pt/profile/230691)
 - 📬 Email: gama.radmila@gmail.com
 
@@ -47,16 +48,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radmilags&theme=aura" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radmilags&theme=aura" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=radmilags&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=radmilags&theme=aura&utcOffset=-3" /> </p>
-
-  <!-- Visitantes
-
-<div align="center">
-
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{radmilags}/count.svg" /></p> 
-
-  <br>
-
-</div> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=radmilags&theme=aura&utcOffset=-3" /> 
+</p>
