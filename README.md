@@ -16,7 +16,6 @@
 - 🚀 Co-fundadora do **[Avalista](https://www.linkedin.com/company/avalista/)** - plataforma educativa de avaliação de interfaces (React, TS, Figma) - plataforma educacionaç de avaliação de interfaces (React, TS, Figma)
 - 🤖 Programadora competitiva — **Top 5 do IFRN** no Beecrowd
 - ♟️ Enxadrista — 2º lugar na categoria Universitário Feminino no Torneio Estadual Onofre Lopes (RN, 2024)
-- ✨ Apaixonada por construir pontes entre design centrado no usuário e código eficiente.
 
 ---
 
