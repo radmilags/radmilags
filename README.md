@@ -13,7 +13,7 @@
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no IFRN
 - 🎨 Designer UI/UX na **Strategi Brasil** - ajudando a criar produtos digitais intuitivos e eficientes
-- 🚀 Co-fundadora do **[Avalista](https://www.linkedin.com/company/avalista/)** - plataforma educativa de avaliação de interfaces (React, TS, Figma) - plataforma educacionaç de avaliação de interfaces (React, TS, Figma)
+- 🚀 Co-fundadora do **[Avalista](https://www.linkedin.com/company/avalista/)** - plataforma educativa de avaliação de interfaces (React, TS, Figma) - plataforma educacional de avaliação de interfaces (React, TS, Figma)
 - 🤖 Programadora competitiva — **Top 5 do IFRN** no Beecrowd
 - ♟️ Enxadrista — 2º lugar na categoria Universitário Feminino no Torneio Estadual Onofre Lopes (RN, 2024)
 
