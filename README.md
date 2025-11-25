@@ -15,7 +15,7 @@
 - 🎨 **UI/UX Designer** na Strategi Brasil, atuando em múltiplos produtos digitais  
 - 🚀 Co-fundadora do **[Avalista](https://www.linkedin.com/company/avalista/)** – plataforma educacional de avaliação de interfaces (React, TS, Figma)  
 - 🤖 Programadora competitiva — **Top 5 do IFRN** no Beecrowd  
-- ♟️ Enxadrista — 2º lugar no Torneio Estadual Onofre Lopes (RN, 2024)  
+- ♟️ Enxadrista — 2º lugar na categoria Universitário Feminino no Torneio Estadual Onofre Lopes (RN, 2024)
 
 ---
 
