@@ -23,7 +23,7 @@
 
 - **Design & Prototipagem:** Figma (Avançado), Design Systems, Wireframes, Prototipação Interativa  
 - **Pesquisa & Análise:** UX Research, Requisitos, Jornadas do Usuário, Testes de Usabilidade  
-- **Desenvolvimento:** React, TypeScript, HTML, CSS, Git, C++, .NET  
+- **Desenvolvimento:** React, TypeScript, Git, C++, .NET  
 - **Outros:** Metodologias Ágeis, Scrum, Inglês Intermediário  
 
 ---
