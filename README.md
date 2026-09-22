@@ -33,7 +33,7 @@
 
 - 💼 LinkedIn: [Radmila Gama](https://www.linkedin.com/in/radmila-gama-37a207212/)  
 - 🎨 Behance: [radmilags](https://www.behance.net/radmilags)  
-- 🎯 Beecrowd: [radmilags](https://www.beecrowd.com.br/judge/pt/profile/230691)  
+- 🎯 Beecrowd: [radmilags](https://judge.beecrowd.com/pt/profile/230691)  
 - 📬 Email: gama.radmila@gmail.com  
 
 ---
