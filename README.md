@@ -11,8 +11,8 @@
 
 ## 🌟 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFRN  
-- 🎨 **UI/UX Designer** na Strategi Brasil, atuando em múltiplos produtos digitais  
+- 🎓 Tecnóloga em **Análise e Desenvolvimento de Sistemas** pelo IFRN (Turma de 2026) 
+- 🎨 **Analista de Requisitos Pleno** no **Grupo Morada**, atuando na ponte estratégica entre as áreas de negócios, processos e o time de desenvolvimento 
 - 🚀 Co-fundadora do **[Avalista](https://www.linkedin.com/company/avalista/)** – plataforma educacional de avaliação de interfaces (React, TS, Figma)  
 - 🤖 Programadora competitiva — **Top 5 do IFRN** no Beecrowd  
 - ♟️ Enxadrista — 2º lugar na categoria Universitário Feminino no Torneio Estadual Onofre Lopes (RN, 2024)
