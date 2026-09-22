@@ -2,8 +2,8 @@
 
 <p align="center">
   <em>
-    Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no IFRN<br>
-    <strong>UI/UX Designer com background em Desenvolvimento Front-end</strong> | <strong>Programadora Competitiva</strong> | <strong>Enxadrista</strong>
+    Formada em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo IFRN<br>
+    <strong>Analista de Requisitos Pleno</strong> | <strong>UI/UX Designer</strong> | <strong>Enxadrista</strong>
   </em>
 </p>
 
@@ -11,8 +11,8 @@
 
 ## 🌟 Sobre mim
 
-- 🎓 Tecnóloga em **Análise e Desenvolvimento de Sistemas** pelo IFRN (Turma de 2026) 
-- 🎨 **Analista de Requisitos Pleno** no **Grupo Morada**, atuando na ponte estratégica entre as áreas de negócios, processos e o time de desenvolvimento 
+- 🎓 Tecnóloga em **Análise e Desenvolvimento de Sistemas** pelo IFRN (Turma de 2026)  
+- 💼 **Analista de Requisitos Pleno** no **Grupo Morada**, atuando na ponte estratégica entre as áreas de negócios, processos e o time de desenvolvimento  
 - 🚀 Co-fundadora do **[Avalista](https://www.linkedin.com/company/avalista/)** – plataforma educacional de avaliação de interfaces (React, TS, Figma)  
 - 🤖 Programadora competitiva — **Top 5 do IFRN** no Beecrowd  
 - ♟️ Enxadrista — 2º lugar na categoria Universitário Feminino no Torneio Estadual Onofre Lopes (RN, 2024)
@@ -21,8 +21,9 @@
 
 ## 🛠️ Ferramentas e Habilidades
 
+- **Análise e Requisitos:** Mapeamento de Processos, Refinamento Ágil, Documentação Técnica, Comunicação entre TI e Operação  
 - **Design & Prototipagem:** Figma (Avançado), Design Systems, Wireframes, Prototipação Interativa  
-- **Pesquisa & Análise:** UX Research, Requisitos, Jornadas do Usuário, Testes de Usabilidade  
+- **Pesquisa & Validação:** UX Research, Jornadas do Usuário, Testes de Usabilidade  
 - **Desenvolvimento:** React, TypeScript, Git, C++, .NET  
 - **Outros:** Metodologias Ágeis, Scrum, Inglês Intermediário  
 
